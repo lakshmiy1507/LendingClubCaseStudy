@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > This project is  Lending case study which is intended to analyse the features that will influence the defaulters.
 
 
